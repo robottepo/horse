@@ -20,13 +20,13 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.22885196374622357,
-            "y": 0.6466165413533834,
-            "uniqueID": 1746164271882,
+            "x": 0.06797583081570997,
+            "y": 0.44268774703557306,
+            "uniqueID": 1746164918468,
             "ioValues": [],
             "description": "Import Atom, let's you choose a type of file to import and use in your design.",
             "fileName": null,
-            "type": "STL",
+            "type": null,
             "SVGwidth": 10
         }
     ],
